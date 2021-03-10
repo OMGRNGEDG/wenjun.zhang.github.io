@@ -2,14 +2,14 @@ module.exports = {
   lang: 'zh-CN',
   title: 'wenjun.zhang个人网站',
   description: 'wenjun.zhang 的个人网站',
-  base: '/article/',
+  base: '/repo/',
   serviceWorker: true,
   head: [
     ["meta", { name: "description", content: "技术文章" }]
   ],
   themeConfig: {
     logo: 'https://vuejs.org/images/logo.png',
-    repo: 'https://github.com/wenjun.zhang/article',
+    repo: 'https://github.com/wenjun.zhang/repo',
     locales: {
       '/': {
         label: '简体中文',
