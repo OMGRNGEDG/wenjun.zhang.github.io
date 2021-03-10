@@ -10,5 +10,6 @@
   },
   "devDependencies": {
     "vuepress": "^2.0.0-alpha.26"
-  }
+  },
+  "repository": "https://github.com/OMGRNGEDG/wenjun.zhang.github.io.git"
 }
